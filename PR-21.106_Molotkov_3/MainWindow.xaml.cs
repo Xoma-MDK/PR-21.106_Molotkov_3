@@ -71,6 +71,7 @@ namespace PR_21._106_Molotkov_3
                 {
                     TbResult.Text += $"{item} ";
                 }
+
             }
             catch (Exception exception)
             {
